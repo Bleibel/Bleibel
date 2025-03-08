@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Next.js-powered Job Board for tech roles <br>👯 I’m looking to collaborate on open source projects or innovative web solutions <br>🤝 I’m looking for help with scaling backend systems and database optimization <br>🌱 I’m currently learning Next.js 14 advanced features and Server Actions <br>💬 Ask me about React patterns, Tailwind CSS tricks, or career switching stories<br>⚡ Fun fact: I code best with an endless supply of espresso ☕️ and LoFi beats 🎧
+🔭 I’m currently working on a Next.js-powered Job Board for tech roles <br>👯 I’m looking to collaborate on open source projects or innovative web solutions <br>🤝 I’m looking for help with scaling backend systems and database optimization <br>🌱 I’m currently learning Next.js 14 advanced features and Server Actions <br>💬 Ask me about React patterns, Tailwind CSS tricks, or career switching stories<br>⚡ Fun fact: I code best with an endless supply of espresso ☕️
 
 
 ## 🌐 Socials:
